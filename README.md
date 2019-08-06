@@ -19,7 +19,13 @@
 
 # CSS3
 
-É uma linguagem de estilo, isso
+É a terceira mais nova versão das famosas Cascading Style Sheets (ou simplesmente CSS), onde se define estilos para seu projeto web.Com efeitos de transição, imagem,imagem de fundo/Background e outros, que dão um estilo novo e elegante a seus projetos web.Ou em todos os aspectos de design do layout da página.
+
+A principal função do CSS3 é abolir as imagens de plano/Background de fundo, bordas arredondadas, apresentar transições e efeitos para criar animações de vários tipos, como um simples relógio de ponteiros.
+
+Isso se deve aos novos browsers/Navegadores,que estão chegando, com suporte à essa linguagem, como o Google Chrome, Opera, Internet Explorer 9, Safari e Mozilla Firefox. Assim, o CSS3 facilitará o trabalho dos que trabalham com web e também dos usuários.
+
+fonte: https://pt.wikipedia.org/wiki/CSS3
 
 # Reset CSS
 
@@ -84,3 +90,7 @@ border-spacing: 0;
 ```
 
 fonte: https://meyerweb.com/eric/tools/css/reset/
+
+# CORES
+
+Exemplo: # E2 46 47
