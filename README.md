@@ -4,7 +4,7 @@
 
 - Conteúdo;
 - Semântica (tags);
-  -Estrutura;
+- Estrutura;
 
 * `<h1>` - heading 1 - 6
 
