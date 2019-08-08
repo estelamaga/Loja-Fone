@@ -22,7 +22,7 @@
   /* height: 965px; */
 }
 
-h1 {
+.title {
   font-size: 40px;
   width: 116px;
   height: 44px;
@@ -31,18 +31,18 @@ h1 {
 }
 
 /*nav*/
-nav {
+.navigation {
   font-size: 21px;
   font-family: "SegoeUI", "Roboto", sans-serif;
   float: right;
 }
 
-a {
+.action {
   text-decoration: none;
   color: inherit;
   margin-right: 60px;
 }
 
-#last {
+.last {
   margin-right: 0;
 }
