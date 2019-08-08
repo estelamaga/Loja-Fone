@@ -2,6 +2,14 @@
   background-color: #e24647;
   color: #fff;
   overflow: hidden;
+  position: absolute;
+/*Junto com o position temos mais 4 propriedades relacionadas:
+/*Que você pode usar 2 delas cada vez é o recomendado.
+/*Propriedades: top legth right bottom, você pode usar uma dessas propriedades em conjunto. Usar somos 2
+porque temos pares bem definidos.
+/* top e o bottom eles mexem com o mesmo eixo (eixo X).
+/*leght e right mexem com o eixo Y.
+
   /*respiro externo*/
   margin-left: 116px;
   margin-right: 115px;
