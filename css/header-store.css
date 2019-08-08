@@ -1,33 +1,9 @@
 .header-store {
-  background-color: #e24647;
-  color: #fff;
+   color: #fff;
   overflow: hidden;
-  position: absolute;
-/*Junto com o position temos mais 4 propriedades relacionadas:
-/*Que você pode usar 2 delas cada vez é o recomendado.
-/*Propriedades: top legth right bottom, você pode usar uma dessas propriedades em conjunto. Usar somos 2
-porque temos pares bem definidos.
-/* top e o bottom eles mexem com o mesmo eixo (eixo X).
-/*leght e right mexem com o eixo Y.
-
-  /*respiro externo*/
-  margin-left: 116px;
-  margin-right: 115px;
-
-  /*respiro interno - forma reduzida - padding:  top right bottom  left;*/
-  padding: 55.5px 60px 95.5px 62.4px;
-
-  /*Outras formas de respiro interno (levando em consideração o exemplo acima)
-  padding: top/bottom  right/legth;
-  padding: 55.5px 60px;
-
-  padding: top  right/leght bottom;
-  padding: 55.5px  60px 95.5px;
-
-  padding: top/right/bottom/leght;
-  padding: 60px; ele vai funcionar para todos com este valor.
-  */
-  /* height: 965px; */
+     /*respiro externo*/
+  /* margin-left: 116px;
+  margin-right: 115px; */
 }
 
 .title {
