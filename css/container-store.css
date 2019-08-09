@@ -6,8 +6,7 @@
   left: 50%;
   top: 50%;
   transform: translateX(-50%)  translateY(-50%);
- 
-}
+ }
 /*POSITION ABSOLUTE
 /*Junto com o position temos mais 4 propriedades relacionadas:
 /*Que você pode usar 2 delas cada vez é o recomendado.
