@@ -1,3 +1,5 @@
 .photo-product{
-  float: left;
+  background: #fff;
+  display: inline-block;
+  height: 554px;
 }

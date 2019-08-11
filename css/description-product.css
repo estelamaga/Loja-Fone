@@ -1,9 +1,7 @@
 .description-product{
     color: #fff;
     font-family: 'Roboto', sans-serif;
-    display: inline-block;
-    width: 554px;
-}
+ }
 
 .description-product > .title{
     font-size: 25px;

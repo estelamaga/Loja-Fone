@@ -1,7 +1,7 @@
 .container-store{
    background-color: #e24647;
    width: 80%;
-  padding: 55.5px 60px 95.5px;
+  padding: 55.5px 60px 95.5px 0;
   /* position: absolute; */
   left: 50%;
   top: 50%;
