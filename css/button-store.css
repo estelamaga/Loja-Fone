@@ -11,21 +11,12 @@
   line-height: 60px;
   margin-right: 0;
   text-decoration: none;
+  border: none;
 }
 
-.button-store-second{
-  display:inline-block;
-  vertical-align: top;
-  font-family: Arial, "Roboto", sans-serif;
-  font-size: 20px;
-  color: #fff;
-  text-decoration: none;
-  text-align: center;
-  line-height: 56px;
-  box-sizing: border-box;
-  background-color: transparent;
-  border: 2px solid #fff;
-  width: 218px;
-  height: 60px;
-
+.button-store.-second{
+    background-color: transparent;
+    border: 2px solid #fff;
+    width: 218;
+    line-height: 56px;
 }

@@ -6,7 +6,7 @@
   margin-right: 115px; */
 }
 
-.title {
+.header-store > .title {
   font-size: 40px;
   width: 116px;
   height: 44px;
@@ -15,18 +15,18 @@
 }
 
 /*nav*/
-.navigation {
+.header-store > .navigation {
   font-size: 21px;
   font-family: "SegoeUI", "Roboto", sans-serif;
   float: right;
 }
 
-.action {
+.header-store .action {
   text-decoration: none;
   color: inherit;
   margin-right: 60px;
 }
 
-.last {
+.header-store .action .-last {
   margin-right: 0;
 }

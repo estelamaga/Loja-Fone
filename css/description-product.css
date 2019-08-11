@@ -1,0 +1,27 @@
+.description-product{
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+/* colocar .header-store em todos
+os filhos do css header-store.css e o last */
+
+.description-product > .title{
+    font-size: 25px;
+}
+
+.description-product > .item{
+    font-size: 20px;
+}
+
+.description-product .contrast {
+    
+}
+
+.description-product > .text{
+    font-size: 18px;
+}
+
+.description-product .action{
+    color: inherit;
+    text-decoration: none;
+}
