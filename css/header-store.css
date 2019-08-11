@@ -1,6 +1,7 @@
 .header-store {
    color: #fff;
   overflow: hidden;
+  margin-bottom: 138px;
      /*respiro externo*/
   /* margin-left: 116px;
   margin-right: 115px; */
@@ -8,10 +9,9 @@
 
 .header-store > .title {
   font-size: 40px;
-  width: 116px;
-  height: 44px;
   font-family: Arial, "Roboto", sans-serif;
   float: left;
+  text-transform: uppercase;
 }
 
 /*nav*/
