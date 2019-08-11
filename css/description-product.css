@@ -3,22 +3,22 @@
     font-family: 'Roboto', sans-serif;
  }
 
-.description-product > .title{
+.description-product  >  .title{
     font-size: 25px;
     margin-bottom: 100px;
 }
 
-.description-product > .item{
+.description-product  >  .item{
     font-size: 20px;
     margin-bottom: 28px;
    }
 
-.description-product > .item .-info{
-    font-size: 20px;
+.description-product  >  .item .-info{
+    width: 200px;
     text-align: right;
 }
 
-.description-product > .item .-info .-last{
+.description-product  >  .item  .-last{
 margin-bottom: 72px;
 }
 .description-product  .contrast {
@@ -26,16 +26,15 @@ margin-bottom: 72px;
     float: left;
 }
 
-.description-product > .text{
+.description-product  >  .text{
     font-size: 18px;
     line-height: 30px;
     margin-bottom: 30px;
 }
-.description-product > .text .-more{
-  margin-bottom: 98px;
-}
 
-.description-product .action{
+.description-product  .action{
     color: inherit;
     text-decoration: none;
 }
+
+/* correto */
