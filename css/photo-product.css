@@ -1,10 +1,10 @@
 .photo-product{
-  background: #fff;
-  display: inline-block;
-  height: 554px;
-  vertical-align: middle;
-  border-top-right-radius: 150px;
+background-color: #fff;
+display: inline-block;
+height: 554px;
+border-top-right-radius: 150px;
 border-bottom-right-radius: 150px;
 margin-right: 157px;
+vertical-align: middle;
 }
 /* /correto */
