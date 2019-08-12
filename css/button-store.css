@@ -12,6 +12,7 @@
   margin-right: 0;
   text-decoration: none;
   border: none;
+  cursor: pointer;
 }
 
 .button-store.-second{
