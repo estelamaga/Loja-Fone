@@ -13,6 +13,20 @@
   text-decoration: none;
   border: none;
   cursor: pointer;
+  transition: all 300ms linear;
+}
+
+.button-store:hover,
+.button-store:focus{
+  background-color: #fff;
+  color: #e24647;
+}
+/* pseudo class é adicionado uma nova classe quando você passa o mouse
+e quando você tira é removida essa classe esse é o comportamento.
+Esse seletor só existe no momento que o usuário toca o mouse sobre o elemento. E quando você tira ele não está mais flutuando. */
+
+.button-store:active{
+  transform: scale(0.9);
 }
 
 .button-store.-second{
@@ -21,6 +35,12 @@
     width: 218px;
     line-height: 56px;
     margin-right: 38px;
+}
+
+.button-store.-second:hover,
+.button-store.-second:focus{
+  background-color: #fff;
+  color: #e24647;
 }
 
 .button-store  >  button, 
