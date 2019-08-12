@@ -20,6 +20,13 @@ left: -47px;
 top: 8px;
 }
 
+.description-product > .item.-heartactive{
+position: absolute;
+transform: translateX(-100%);
+left: -47px;
+top:50px;
+}
+
 .description-product > .item.-star{
 margin-bottom: 10px;
 cursor: pointer;
