@@ -14,7 +14,7 @@
   border: none;
 }
 
-.button-store .-second{
+.button-store.-second{
     background-color: transparent;
     border: 2px solid #fff;
     width: 218px;
