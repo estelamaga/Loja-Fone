@@ -10,10 +10,12 @@
   transform: translateX(-50%) translateY(-50%);
 }
 
-@media  (width: 1315px) {
+@media  (max-width: 1470px) {
   .container-store {
     position: static;
     transform: none;
+    width: 100%;
+    max-width: 100%;
   }
 }
 
