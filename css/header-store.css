@@ -69,10 +69,15 @@
   transform: scale(1);
 }
 
-@media (max-width: 968px){
+@media (max-width: 1235px){
   .header-store > .title {
     float: none;
     text-align: center;
+  }
+
+  .header-store > .navigation {
+    float:none;
+    text-align:center;
   }
 
 }
